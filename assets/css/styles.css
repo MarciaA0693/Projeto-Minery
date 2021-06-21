@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,800;1,600&display=swap');
+
+:root {
+    /* Colors: */
+    --unnamed-color-df1cc5: #DF1CC5;
+    --unnamed-color-000000de: #000000DE;
+    --unnamed-color-00000094: #00000094;
+    --unnamed-color-0000005e: #0000005e;
+    }
+
+
+body, ul, li, p{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 16px;
+    font-family:'Open Sans', sans-serif;
+}
+
+h2{
+    font-size: 48px;
+    font-style: italic;
+    text-transform: uppercase;
+    color: var(--unnamed-color-000000de);
+}

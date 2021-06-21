@@ -1,0 +1,45 @@
+.home{
+    width: 100%;
+    margin: 0;
+    background: #DF1CC5;
+    color: #fff;
+}
+
+.home-container{ 
+    background: 
+    radial-gradient(
+      circle at right,
+      #FE1390, 
+      transparent
+    );
+    padding: 75px 0 75px 140px;
+    display: flex;
+}
+
+.home-text{
+    width: 50%;
+    position:absolute;
+}
+
+.home-text h1{
+    margin: 0;
+    margin: 68px 15px;;
+    font-size: 64px;
+    text-shadow: 0px 3px 6px #00000029;
+    text-transform: uppercase;
+}
+
+.home-text a{
+    margin: 64px 15px;
+    padding: 20px 48px;
+    border: 3px solid #fff;
+    color: #fff;
+}
+
+.bg-img{
+    width: 100%;
+    padding: 0 40px;
+}
+.bg-img img{
+    float: right;
+}

@@ -1,0 +1,49 @@
+.Lorem-Ipusum{
+    width: 100%;
+    height: 650px;
+}
+
+.Lorem-container{
+    margin: 75px 20px;
+    padding: 0 auto;
+    display: flex;
+}
+
+.Lorem-img{
+    width: 748.9px;
+    height: 500px;
+}
+
+.Lorem-text{
+    float: right;
+    width: 564px;
+    margin-left: 5%;
+    color: var(--unnamed-color-00000094)
+}
+
+.Lorem-text h2{
+    font-size: 48px;
+    font-style: italic;
+    text-transform: uppercase;
+    color: var(--unnamed-color-000000de);
+}
+
+.Lorem-text p{
+    margin: 24px 0;
+}
+
+.Lorem-itens ul li{
+    list-style: initial;
+    list-style-position: inside;
+}
+
+.Lorem-text a{
+    margin-top: 24px;
+    padding: 20px 48px;
+    border: 1px solid var(--unnamed-color-df1cc5);
+    color: var(--unnamed-color-df1cc5);
+}
+
+.Loren-btn{
+    margin-top: 39px;
+}

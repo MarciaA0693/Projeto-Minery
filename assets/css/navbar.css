@@ -1,0 +1,27 @@
+a{
+    text-decoration: none;
+    color: var(--unnamed-color-000000de);
+}
+
+header{
+    width: 100%;
+    padding: 40px 0 40px 0;
+    background: #fff;
+    text-align: center;
+}
+
+.menu{
+    margin: 0 0 0 141px;
+    display: flex;
+}
+
+
+.menu li a{
+    margin: 0;
+    padding: 16px 32px;
+    transition: 0.6s;
+}
+
+.menu li a:hover{
+    color:#FE1390;
+}
